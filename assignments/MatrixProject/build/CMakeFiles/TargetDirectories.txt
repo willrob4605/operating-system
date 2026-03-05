@@ -1,0 +1,4 @@
+/home/will/Desktop/MatrixProject/build/CMakeFiles/MatrixMath.dir
+/home/will/Desktop/MatrixProject/build/CMakeFiles/MatrixApp.dir
+/home/will/Desktop/MatrixProject/build/CMakeFiles/edit_cache.dir
+/home/will/Desktop/MatrixProject/build/CMakeFiles/rebuild_cache.dir

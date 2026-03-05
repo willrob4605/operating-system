@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MatrixApp.dir/main.cpp.o -o MatrixApp  -Wl,-rpath,/home/will/Desktop/MatrixProject/build libMatrixMath.so 
